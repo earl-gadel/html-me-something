@@ -1,5 +1,8 @@
-﻿body
-{
+﻿body {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #808080;
+    font-size: 70%;
 }
 img {
     max-width: 50%;
