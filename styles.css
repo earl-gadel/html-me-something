@@ -21,3 +21,6 @@ p {
     width: 50%;
     margin: 5px;
 }
+#danger {
+    color: red;
+}
